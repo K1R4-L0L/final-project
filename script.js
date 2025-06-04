@@ -1,0 +1,1 @@
+const streak = document.querySelector(".score p");
